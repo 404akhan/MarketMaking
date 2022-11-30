@@ -1,5 +1,9 @@
-We implemented baseline Stoikov [1] model for market making, grid searched parameters, and evaluated on full 24 hours bitcoin dataset. Plus, some other notebook works.
+This is a collection of Market Making algorithms.
 
-See the work in jupyter notebook - Simulator.ipynb
+Baseline Stoikov [1] in Simulator.ipynb
+
+HFT with Predictive Information [2] in pro_rata.ipynb
 
 [1] https://www.math.nyu.edu/~avellane/HighFrequencyTrading.pdf
+
+[2] https://arxiv.org/abs/1205.3051
