@@ -5,7 +5,6 @@ import pandas as pd
 
 from simulator import MdUpdate, OwnTrade, update_best_positions
 
-
 def get_pnl(updates_list:List[ Union[MdUpdate, OwnTrade] ]):
     '''
         This function calculates PnL from list of updates
